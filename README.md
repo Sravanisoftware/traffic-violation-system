@@ -1,8 +1,3 @@
-Here is your **fully combined, clean, and GitHub-ready README in one complete format** 👇
-
----
-
-```md
 # 🚓 Traffic Violation Management System
 
 ## 📌 Project Description
@@ -82,61 +77,27 @@ The system also includes basic AI-based detection for helmet violations.
 
 ## 📂 Project Structure
 
-```
-
 traffic-violation-system/
 ├── frontend/ (React app)
 ├── backend/ (Node server)
 ├── backend/ai/ (Python AI detection)
 ├── uploads/ (Images)
 
-````
-
----
-
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login Page](https://github.com/user-attachments/assets/768fb963-1531-43b0-ba45-527cfd72344d)
-
-### 📊 Dashboard
-![Dashboard](https://github.com/user-attachments/assets/5f867f51-fa98-4556-a01e-902d7f69e896)
-
-### 🚗 Add Violation
-![Add Violation](https://github.com/user-attachments/assets/20440d83-50f5-4f2e-97d3-e38f70efc2c5)
-
-### 📈 Analytics Dashboard
-![Analytics 1](https://github.com/user-attachments/assets/2b9550fe-5d66-4748-8c37-8d1bf13c644b)
-
-![Analytics 2](https://github.com/user-attachments/assets/1a18411d-db19-4db8-bec8-c617a5b8e895)
-
-### 📊 Violation Distribution
-![Distribution 1](https://github.com/user-attachments/assets/5f3ad1ab-b461-4c09-a762-72d5a2c1ce22)
-
-![Distribution 2](https://github.com/user-attachments/assets/a6e7b8d4-7f61-4c49-b744-763fbd46efcf)
-
 ---
 
 ## ▶️ How to Run
 
 ### Backend
-```bash
 cd backend  
 npm install  
 npm start  
-````
 
 ### Frontend
-
-```bash
 cd frontend  
 npm install  
 npm run dev  
-```
 
 ---
 
 ## 👩‍💻 Author
-
-**Sravani**
-
+Sravani
